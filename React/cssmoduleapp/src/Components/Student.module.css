@@ -1,0 +1,11 @@
+.box {
+  border: 2px solid blue;
+  padding: 20px;
+  width: 300px;
+  margin: 20px;
+  text-align: center;
+}
+
+.title {
+  color: blue;
+}
